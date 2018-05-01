@@ -12,12 +12,23 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Sat, 28 Apr 2018 12:06:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 May 2018 08:19:56 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 	<item>
+		<title>Коллектив Центра принял участие в первомайской демонстрации!</title>
+		<link>http://gppc.ru/news/67833/</link>
+		<pubDate>Tue, 01 May 2018 08:19:56 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=67833</guid>
+		<description><![CDATA[В День весны и труда сотрудники Городского психолого-педагогического центра большим дружным коллективом приняли участие в праздничной демонстрации, пройдя вместе с другими трудовыми коллективами Москвы по Красной площади. В прекрасном настроении, согретые лучами весеннего солнца, мы разделили радость Первомая на всех. ​Пусть и для вас этот день станет ярким, теплым, наполненным позитивом и радостными событиями! С [&#8230;]]]></description>
+		</item>
+		<item>
 		<title>В ТО Останкинское прошла весенняя Неделя добра</title>
 		<link>http://gppc.ru/to/67821/</link>
 		<pubDate>Sat, 28 Apr 2018 11:30:10 +0000</pubDate>
@@ -115,17 +126,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=67755</guid>
 		<description><![CDATA[В преддверии межрегионального семинара по канистерапии в территориальном отделении «Северный» педагогом дополнительного образования Николадзе Светланой Вячеславовной организована выставка детских творческих работ «Собака – мой друг». Подростки узнали и нарисовали различные породы собак с использованием обычной шариковой ручки!​]]></description>
-		</item>
-		<item>
-		<title>В ТО Бабушкинское прошёл концерт</title>
-		<link>http://gppc.ru/to/67749/</link>
-		<pubDate>Sat, 28 Apr 2018 09:42:12 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости ТО]]></category>
-		<category><![CDATA[ТО Бабушкинское]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=67749</guid>
-		<description><![CDATA[23 апреля 2018 года в территориальном отделении «Бабушкинское» прошёл концерт! Мероприятие подготовили и провели педагоги дополнительного образования Осипова Наталья и Идрисов Наиль. Программа концерта была разнообразна. На сцену выходили маленькие и взрослые артисты, которые демонстрировали свои умения и навыки, приобретенные на занятиях в течение всего учебного года: читали стихи, пели песни и показывали юмористические сценки. В [&#8230;]]]></description>
 		</item>
 	</channel>
 </rss>
