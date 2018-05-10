@@ -12,12 +12,34 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Tue, 08 May 2018 13:59:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 May 2018 13:17:59 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 	<item>
+		<title>В ТО Крылатское завершилась выставка «Культура театра»</title>
+		<link>http://gppc.ru/to/67996/</link>
+		<pubDate>Thu, 10 May 2018 11:26:45 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости ТО]]></category>
+		<category><![CDATA[ТО Крылатское]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=67996</guid>
+		<description><![CDATA[В территориальном отделении &#171;Крылатское&#187; завершилась выставка &#171;Культура театра&#187;. При помощи пластилина и бумаги участники под руководством педагога дополнительного образования Ирины Кобызевой создали зарисовки на тему выступлений и будничной жизни театра.​]]></description>
+		</item>
+		<item>
+		<title>Поздравление с 9 мая!</title>
+		<link>http://gppc.ru/news/67955/</link>
+		<pubDate>Wed, 09 May 2018 05:58:49 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=67955</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
 		<title>Московский образовательный телеканал представляет выпуск новостей (07.05.2018)</title>
 		<link>http://gppc.ru/news/67948/</link>
 		<pubDate>Tue, 08 May 2018 13:59:00 +0000</pubDate>
@@ -104,28 +126,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=67880</guid>
 		<description><![CDATA[14 мая 2018 года специалисты Городского психолого-педагогического центра проведут очередную встречу с участниками Клуба юных волонтеров школьных служб примирения города Москвы «Диалог дружбы». Тема встречи: «Практики примирения в подростковой среде». Участники: кураторы и волонтеры школьных служб примирения Место проведение встречи: ГБОУ «Школа № 2088» Адрес: город Москва, Волжский бульвар, д.6, к.4 (м. Текстильщики) Время: с [&#8230;]]]></description>
-		</item>
-		<item>
-		<title>Московский образовательный телеканал представляет выпуск новостей (28.04.2018)</title>
-		<link>http://gppc.ru/news/67877/</link>
-		<pubDate>Thu, 03 May 2018 13:25:48 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=67877</guid>
-		<description><![CDATA[Московские школьники стали абсолютными победителями среди 9 и 10 классов в финале всероссийской олимпиады по обществознанию. Руководители департаментов образования и информационных технологий обсудили цифровизацию как главный тренд будущего. Высокотехнологичное оборудование московских школ показали на форуме-выставке «ГОСЗАКАЗ – за честные закупки». Подведены итоги фестиваля научно-технического творчества молодежи «Образование. Наука. Производство». Прошла очередная встреча проекта «Урок с префектом». [&#8230;]]]></description>
-		</item>
-		<item>
-		<title>Городской психолого-педагогический центр приглашает школьников на цикл мероприятий, направленных на успешную сдачу экзаменов</title>
-		<link>http://gppc.ru/news/67864/</link>
-		<pubDate>Thu, 03 May 2018 11:57:26 +0000</pubDate>
-		<dc:creator><![CDATA[gppc]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=67864</guid>
-		<description><![CDATA[В продолжение проекта «Форсайт профессионального успеха» специалисты Городского психолого-педагогического центра подготовили цикл мероприятий, направленных на успешную сдачу итоговых школьных экзаменов учащимися 9-ых и 11-ых классов. Для успешной сдачи экзаменов важно хорошее владение знаниями по предметам. Уверенность в себе, своих силах, спокойствие, позитивный настрой, а также умение совладать со своими эмоциями в волнительный момент позволяют представить [&#8230;]]]></description>
 		</item>
 	</channel>
 </rss>
