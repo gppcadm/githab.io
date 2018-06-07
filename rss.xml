@@ -12,12 +12,23 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Wed, 06 Jun 2018 11:56:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Jun 2018 12:56:21 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 	<item>
+		<title>Деловая игра &#171;Как стать успешным&#187; &#8212; репортаж</title>
+		<link>http://gppc.ru/news/69319/</link>
+		<pubDate>Thu, 07 Jun 2018 12:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=69319</guid>
+		<description><![CDATA[Городской психолого-педагогический центр принимал ребят на очередном занятии из цикла «Форсайт профессионального успеха» в рамках городского проекта «Субботы московского школьника». О том, как проходила деловая игра «Как стать успешным?» &#8212; в нашем репортаже.]]></description>
+		</item>
+		<item>
 		<title>Московский образовательный телеканал представляет выпуск новостей (04.06.2018)</title>
 		<link>http://gppc.ru/news/69237/</link>
 		<pubDate>Tue, 05 Jun 2018 13:15:42 +0000</pubDate>
@@ -115,17 +126,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=69127</guid>
 		<description><![CDATA[В территориальном отделении «Северное Измайлово» с 9 апреля по 25 мая в рамках проекта «Моя Москва» состоялся конкурс детских творческих работ «Москва весной». В нем приняли участие ребята старшего дошкольного и младшего школьного возраста, которые под руководством наших специалистов создали целую гамму весеннего настроения, вспомнили любимые места москвичей, прошли по достопримечательностям столицы. Конкурс проводился в [&#8230;]]]></description>
-		</item>
-		<item>
-		<title>Московский образовательный телеканал представляет выпуск новостей (31.05.2018)</title>
-		<link>http://gppc.ru/news/69109/</link>
-		<pubDate>Fri, 01 Jun 2018 13:36:59 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=69109</guid>
-		<description><![CDATA[Московскую школу № 1253 посетила финская делегация. В школе № 2098 состоялся круглый стол по вопросам развития проекта «Инженерный класс в московской школе». Определены победители городского кулинарного конкурса «Друзья по кухне». Состоялся финал конкурса-выставки «Цветение сакуры». Прошел гала-концерт фестиваля «FOLK без границ». Все самое интересное из сферы образования – в материалах корреспондентов Московского образовательного телеканала. [&#8230;]]]></description>
 		</item>
 	</channel>
 </rss>
