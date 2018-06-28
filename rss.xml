@@ -12,12 +12,23 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Wed, 27 Jun 2018 12:26:21 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Jun 2018 08:16:21 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 	<item>
+		<title>Собака спешит на помощь: репортаж Московского образовательного телеканала о наших занятиях по канистерапии</title>
+		<link>http://gppc.ru/news/69823/</link>
+		<pubDate>Thu, 28 Jun 2018 08:16:21 +0000</pubDate>
+		<dc:creator><![CDATA[gppc]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=69823</guid>
+		<description><![CDATA[Московский образовательный телеканал снял сюжет про то, как четвероногие друзья нашего Центра помогают детям с ограниченными возможностями здоровья. Смотрим с 8.47.]]></description>
+		</item>
+		<item>
 		<title>Учащихся из крупнейших  городов  и столиц мира Москва пригласила на III Олимпиаду мегаполисов</title>
 		<link>http://gppc.ru/news/69740/</link>
 		<pubDate>Wed, 27 Jun 2018 07:54:07 +0000</pubDate>
@@ -115,17 +126,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=69632</guid>
 		<description><![CDATA[В каких летних образовательных тренингах и мастер-классах могут принять участие московские школьники? Об этом и не только рассказала старший методист Городского психолого-педагогического центра Анна Платонова в эфире &#171;Московского образовательного телеканала&#187;.]]></description>
-		</item>
-		<item>
-		<title>Московский образовательный телеканал представляет выпуск новостей (19.06.2018)</title>
-		<link>http://gppc.ru/news/69612/</link>
-		<pubDate>Wed, 20 Jun 2018 10:10:56 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=69612</guid>
-		<description><![CDATA[Подведены итоги городского проекта «Школа новых технологий». Прошел очередной  семинар в рамках проекта «Взаимообучение московских школ». Про­грам­ма лет­не­го дет­ско­го от­ды­ха «Мос­ков­ская сме­на» продолжает работу. Все самое интересное из сферы образования – в материалах корреспондентов Московского образовательного телеканала. Подведены итоги городского проекта «Школа новых технологий» Торжественная церемония награждения лучших участников городского проекта «Школа новых технологий» по итогам 2017- 2018 [&#8230;]]]></description>
 		</item>
 	</channel>
 </rss>
