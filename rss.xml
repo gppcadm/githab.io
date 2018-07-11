@@ -12,12 +12,23 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Tue, 10 Jul 2018 09:39:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Jul 2018 12:06:02 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 	<item>
+		<title>Московский образовательный телеканал представляет выпуск новостей (10.07.2018)</title>
+		<link>http://gppc.ru/news/69887/</link>
+		<pubDate>Wed, 11 Jul 2018 12:06:02 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=69887</guid>
+		<description><![CDATA[Делегация из Казахстана побывала на уроке в школьном музее. В школе № 1529 начались масштабные ремонтные и реставрационные работы. Фестиваль «Московская семья» прошел в Царицыно. Все самое интересное из сферы образования – в материалах корреспондентов Московского образовательного телеканала. Делегация из Казахстана побывала на уроке в школьном музее Перенимать опыт московских учителей по проведению уроков в школьных [&#8230;]]]></description>
+		</item>
+		<item>
 		<title>Московский образовательный телеканал представляет выпуск новостей (09.07.2018)</title>
 		<link>http://gppc.ru/news/69884/</link>
 		<pubDate>Tue, 10 Jul 2018 09:39:36 +0000</pubDate>
@@ -115,17 +126,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=69827</guid>
 		<description><![CDATA[В Московской электронной школе появились атомарные элементы урока мэра Москвы. Международная олимпиада мегаполисов стартует в Москве 2 сентября. Прошел очередной лекторий клуба менторов. Все самое интересное из сферы образования – в материалах корреспондентов Московского образовательного телеканала. В Московской электронной школе появились атомарные элементы урока мэра Москвы Урок мэра Москвы, который Сергей Собянин провел для столичных школьников, пополнил контент [&#8230;]]]></description>
-		</item>
-		<item>
-		<title>Собака спешит на помощь: репортаж Московского образовательного телеканала о наших занятиях по канистерапии</title>
-		<link>http://gppc.ru/news/69823/</link>
-		<pubDate>Thu, 28 Jun 2018 08:16:21 +0000</pubDate>
-		<dc:creator><![CDATA[gppc]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=69823</guid>
-		<description><![CDATA[Московский образовательный телеканал снял сюжет про то, как четвероногие друзья нашего Центра помогают детям с ограниченными возможностями здоровья. Смотрим с 8.47.]]></description>
 		</item>
 	</channel>
 </rss>
