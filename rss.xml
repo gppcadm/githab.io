@@ -12,12 +12,23 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Thu, 07 Mar 2019 10:21:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Mar 2019 13:35:56 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
+		<title>Московский образовательный телеканал представляет выпуск новостей (06.03.19)</title>
+		<link>http://gppc.ru/news/81333/</link>
+		<pubDate>Thu, 07 Mar 2019 13:35:56 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=81333</guid>
+		<description><![CDATA[В Москве прошел первый тур очного этапа олимпиады для учителей информатики. Школьники столицы приняли участие в научно-образовательной конференции по истории медицины. Состоится основной тур математической онлайн-олимпиады для учеников начальных классов. Все самое интересное из сферы образования – в материалах корреспондентов Московского образовательного телеканала. В Москве прошел первый тур очного этапа олимпиады для учителей информатики Участниками [&#8230;]]]></description>
+		</item>
+		<item>
 		<title>Малыши удивили своих мам на 8 марта</title>
 		<link>http://gppc.ru/to/81289/</link>
 		<pubDate>Thu, 07 Mar 2019 09:48:39 +0000</pubDate>
@@ -115,17 +126,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=81228</guid>
 		<description><![CDATA[]]></description>
-		</item>
-		<item>
-		<title>С прошедшим праздником мужчин поздравляют ребята!</title>
-		<link>http://gppc.ru/to/81220/</link>
-		<pubDate>Wed, 06 Mar 2019 12:56:44 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости ТО]]></category>
-		<category><![CDATA[ТО Жулебино]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=81220</guid>
-		<description><![CDATA[В территориальном отделении «Жулебино» прошла целая серия мероприятий, посвященных Дню защитника Отечества. Например, яркая тематическая стенгазета, выполненная ребятами под руководством педагога-психолога Шаповаловой С.В., которая украсила холл первого этажа! А чего стоит праздничный визит клоуна Бима в группу кратковременного пребывания! Как вы думаете, у клоунов есть 23 февраля? Вместе с детьми клоун Бим маршировал, играл в [&#8230;]]]></description>
 		</item>
 	</channel>
 </rss>
