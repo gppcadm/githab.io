@@ -13,7 +13,7 @@
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
 	<lastBuildDate>
-	Wed, 19 Jun 2019 11:33:21 +0000	</lastBuildDate>
+	Thu, 20 Jun 2019 06:23:21 +0000	</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,6 +21,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.1.1</generator>
 	<item>
+		<title>Ученики начальной школы из 34 Межрайонных советов директоров приняли участие в интеллектуальном квизе «Лето твоей мечты»</title>
+		<link>http://gppc.ru/news/85828/</link>
+				<pubDate>Wed, 19 Jun 2019 14:32:03 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=85828</guid>
+				<description><![CDATA[Знаете ли вы, кто придумывает игры? А где учат на игромейкеров? Какие необычные места Москвы можно посетить летом и как музеи и парки уже сейчас работают над формированием навыков будущего? О всех возможностях, которые есть у каждого столичного школьника, чтобы провести лето в городе не только интересно, но и полезно, узнали сегодня на #МОСОБРТВ участники [&#8230;]]]></description>
+									</item>
+		<item>
 		<title>Учреждена Ассоциация образовательных организаций для обучающихся с нарушениями зрения</title>
 		<link>http://gppc.ru/news/85822/</link>
 				<pubDate>Wed, 19 Jun 2019 08:23:12 +0000</pubDate>
@@ -118,17 +129,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=85760</guid>
 				<description><![CDATA[С приходом календарного лета в столичных парках для москвичей старшего возраста организованы занятия в рамках проекта «Московское долголетие». В Ясеневе и Отрадном творческие группы, увлеченных живописью, взяв с собой мольберты и краски, под руководством опытных педагогов Городского психолого-педагогического центра делают карандашные зарисовки с натуры, работают в технике акварели, стараясь как можно точнее запечатлеть на бумаге [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>Как записаться в школу &#171;Форсайт&#187;?​</title>
-		<link>http://gppc.ru/news/85755/</link>
-				<pubDate>Thu, 13 Jun 2019 09:27:28 +0000</pubDate>
-		<dc:creator><![CDATA[SmirnovDA]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=85755</guid>
-				<description><![CDATA[]]></description>
 									</item>
 	</channel>
 </rss>
