@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Wed, 03 Jul 2019 05:56:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Jul 2019 13:46:59 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
+		<title>День открытых дверей в школе &#171;Форсайт&#187; пройдет 9 июля</title>
+		<link>http://gppc.ru/notice/86073/</link>
+				<pubDate>Wed, 03 Jul 2019 13:46:59 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Анонсы]]></category>
+		<category><![CDATA[Анонс]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=86073</guid>
+				<description><![CDATA[Играй по своим правилам! Под таким девизом пройдет 9 июля 2019 года День открытых дверей в московской школе «Форсайт» Городского психолого-педагогического центра. Ровно с тех пор, как создатели игр и приложений поняли, что необходимо учитывать человеческий опыт при разработке игрового пространства, появился гейм-дизайн. А что это значит? Это значит, что все в мире игры действуют [&#8230;]]]></description>
+									</item>
+		<item>
 		<title>Состоялась торжественная церемония открытия XVI Европейского психологического конгресса</title>
 		<link>http://gppc.ru/news/86060/</link>
 				<pubDate>Wed, 03 Jul 2019 05:56:12 +0000</pubDate>
@@ -117,17 +128,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=85945</guid>
 				<description><![CDATA[В столице прошёл интеллектуальный квиз, посвящённый летнему отдыху юных москвичей. Эксперты в студии обсудили, как сделать лето полезным и интересным для каждого школьника.]]></description>
-									</item>
-		<item>
-		<title>Педагоги ТО «Коньково» провели квест-игру для участников Летней образовательной смены</title>
-		<link>http://gppc.ru/to/85888/</link>
-				<pubDate>Fri, 21 Jun 2019 06:09:19 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости ТО]]></category>
-		<category><![CDATA[ТО Коньково]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=85888</guid>
-				<description><![CDATA[Яркие занятия, подвижные игры и отличное летнее настроение – визитная карточка Летней образовательной смены. Педагоги территориального отделения «Коньково» А.Губина и М.Гайдукова предложили первоклассникам – участникам смены в школе №1862 –увлекательный квест, объединивший ребят в дружную, энергичную команду.]]></description>
 									</item>
 	</channel>
 </rss>
