@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Fri, 12 Jul 2019 13:33:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Jul 2019 14:14:46 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
+		<title>В любом конфликте ребенка и взрослого виноват взрослый: ищем алгоритм выхода из сложной ситуации вместе – психолог, родитель, учитель, директор</title>
+		<link>http://gppc.ru/news/86148/</link>
+				<pubDate>Tue, 16 Jul 2019 14:14:46 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=86148</guid>
+				<description><![CDATA[Что делать? И кто виноват? Классические риторические вопросы в русской литературной традиции. Действительно ли это вопросы, на которые нет ответа? А если по разную сторону баррикад оказались ребенок и взрослый? В фокусе внимания – школа! Смотрим, думаем, обсуждаем вместе с экспертами в студии МОСОБРТВ. Ссылка для просмотра]]></description>
+									</item>
+		<item>
 		<title>Лето &#8212; это маленькая жизнь</title>
 		<link>http://gppc.ru/to/86130/</link>
 				<pubDate>Fri, 12 Jul 2019 13:33:56 +0000</pubDate>
@@ -118,17 +129,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=86017</guid>
 				<description><![CDATA[20 июня 2019 года в территориальном отделении «Северное Измайлово» прошёл замечательный летний праздник «О цветах и бабочках», организованный Гринь Еленой и Курзиной Оксаной. Родители увидели спектакль по сказке «О бабочке капустнице» в исполнении своих детей. Ребята поиграли в любимые игры с разноцветными мячиками и музыкальными инструментами. Завершил праздник веселый цветочный хоровод.]]></description>
-									</item>
-		<item>
-		<title>КосмоStars: как ребята «Открытого города» отправились в путешествие к звездам</title>
-		<link>http://gppc.ru/to/86002/</link>
-				<pubDate>Thu, 27 Jun 2019 06:45:42 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости ТО]]></category>
-		<category><![CDATA[ТО Сокол]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=86002</guid>
-				<description><![CDATA[С 3 по 17 июня 2019 года в территориальном отделении «Сокол» прошла летняя смена «КосмоStars». За 10 дней дети совершили увлекательное космическое путешествие по планетам Солнечной системы. Ежедневно наши «космонавты» проходили физическую и интеллектуальную подготовку для успешного выполнения космической миссии. Во время межпланетного перелета ребята произвели посадку на Венеру для костюмированного карнавала, помогли жителям Юпитера [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
