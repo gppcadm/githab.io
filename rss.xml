@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Tue, 16 Jul 2019 14:14:46 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Jul 2019 12:25:50 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
+		<title>Заместитель директора Городского психолого-педагогического центра Нина Середенко приняла участие в программе &#171;Вызов:азарт и опыт&#187;</title>
+		<link>http://gppc.ru/news/86151/</link>
+				<pubDate>Thu, 25 Jul 2019 12:25:31 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=86151</guid>
+				<description><![CDATA[Заместитель директора Городского психолого-педагогического центра Нина Середенко и директор школы № 2127 Инна Казакова дискутировали на тему: «С кем должен работать школьный психолог: с ребёнком или педагогом?».]]></description>
+									</item>
+		<item>
 		<title>В любом конфликте ребенка и взрослого виноват взрослый: ищем алгоритм выхода из сложной ситуации вместе – психолог, родитель, учитель, директор</title>
 		<link>http://gppc.ru/news/86148/</link>
 				<pubDate>Tue, 16 Jul 2019 14:14:46 +0000</pubDate>
@@ -118,17 +129,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=86026</guid>
 				<description><![CDATA[«Психология для карьеры и жизни» – именно этой теме была посвящена интерактивная деловая игра для учеников 6-8 классов, прошедшая 15 июня в территориальном отделении «Северное Измайлово». Ребята прошли путь от зарождения амбициозной идеи до ее воплощения в реальность. Каждый участник квеста смог определиться с приоритетами личностного развития, попробовать свои силы в стратегическом планировании, «прокачать» свои [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>О цветах и бабочках</title>
-		<link>http://gppc.ru/to/86017/</link>
-				<pubDate>Thu, 27 Jun 2019 06:46:39 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости ТО]]></category>
-		<category><![CDATA[ТО Северное Измайлово]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=86017</guid>
-				<description><![CDATA[20 июня 2019 года в территориальном отделении «Северное Измайлово» прошёл замечательный летний праздник «О цветах и бабочках», организованный Гринь Еленой и Курзиной Оксаной. Родители увидели спектакль по сказке «О бабочке капустнице» в исполнении своих детей. Ребята поиграли в любимые игры с разноцветными мячиками и музыкальными инструментами. Завершил праздник веселый цветочный хоровод.]]></description>
 									</item>
 	</channel>
 </rss>
