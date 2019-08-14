@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Tue, 06 Aug 2019 09:24:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Aug 2019 11:36:24 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
+		<title>Актуальное интервью на Мособртв: Форсайт профессионального успеха</title>
+		<link>http://gppc.ru/news/86178/</link>
+				<pubDate>Wed, 14 Aug 2019 11:36:24 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=86178</guid>
+				<description><![CDATA[Начальник отдела методической и инновационной деятельности Городского психолого-педагогического центра Елена Ушакова рассказывает о деловых играх проекта &#171;Форсайт профессионального успеха&#187; в интервью Московского образовательного телеканала.]]></description>
+									</item>
+		<item>
 		<title>И летом не стоим на месте: ребята осваивали навыки soft skills на встрече «Форсайт профессионального успеха»</title>
 		<link>http://gppc.ru/news/86163/</link>
 				<pubDate>Tue, 06 Aug 2019 09:24:25 +0000</pubDate>
@@ -118,17 +129,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=86060</guid>
 				<description><![CDATA[2 июля 2019 года на главной сцене Государственного Кремлевского дворца состоялась торжественная церемония открытия XVI Европейского психологического конгресса. Организованный Российским психологическим обществом, конгресс объединяет ученых и практиков со всего света. В нем принимают участие самые разные специалисты, объединенные общим интересом к психологии, одной из наиболее востребованных наук, у которой есть все необходимое для эффективного решения [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>Концерт «Все мы просто дети», посвящённый Международному Дню защиты детей</title>
-		<link>http://gppc.ru/to/86050/</link>
-				<pubDate>Mon, 01 Jul 2019 07:21:46 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости ТО]]></category>
-		<category><![CDATA[ТО Сокол]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=86050</guid>
-				<description><![CDATA[Детская улыбка и счастливые глаза малышей – наверное, самое большое богатство в мире. А праздник 1 июня ещё раз напоминает нам о том, что весёлое и счастливое детство должно быть у каждого ребёнка. В территориальном отделении «Сокол» педагогом дополнительного образования, руководителем студий музыкального развития «Спасибо, музыка, тебе!» и «Фа-диез» Ярмоленко Еленой вместе с воспитанниками студий [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
