@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Wed, 14 Aug 2019 11:36:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Aug 2019 12:58:25 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
+		<title>Службы медиации – что это? Репортаж телеканала «Москва 24»</title>
+		<link>http://gppc.ru/news/86184/</link>
+				<pubDate>Thu, 15 Aug 2019 12:58:25 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=86184</guid>
+				<description><![CDATA[Службы медиации &#8212; что это? И кто такие &#171;медиаторы&#187;? Как они помогают достигать взаимопонимания между детьми, родителями и учителями? Смотрим репортаж «Москва 24».]]></description>
+									</item>
+		<item>
 		<title>Актуальное интервью на Мособртв: Форсайт профессионального успеха</title>
 		<link>http://gppc.ru/news/86178/</link>
 				<pubDate>Wed, 14 Aug 2019 11:36:24 +0000</pubDate>
@@ -118,17 +129,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=86073</guid>
 				<description><![CDATA[Играй по своим правилам! Под таким девизом пройдет 9 июля 2019 года День открытых дверей в московской школе «Форсайт» Городского психолого-педагогического центра. Ровно с тех пор, как создатели игр и приложений поняли, что необходимо учитывать человеческий опыт при разработке игрового пространства, появился гейм-дизайн. А что это значит? Это значит, что все в мире игры действуют [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>Состоялась торжественная церемония открытия XVI Европейского психологического конгресса</title>
-		<link>http://gppc.ru/news/86060/</link>
-				<pubDate>Wed, 03 Jul 2019 05:56:12 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=86060</guid>
-				<description><![CDATA[2 июля 2019 года на главной сцене Государственного Кремлевского дворца состоялась торжественная церемония открытия XVI Европейского психологического конгресса. Организованный Российским психологическим обществом, конгресс объединяет ученых и практиков со всего света. В нем принимают участие самые разные специалисты, объединенные общим интересом к психологии, одной из наиболее востребованных наук, у которой есть все необходимое для эффективного решения [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
