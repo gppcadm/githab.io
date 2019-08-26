@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Fri, 23 Aug 2019 12:53:37 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Aug 2019 11:40:33 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
+		<title>Обучение по программе повышения квалификации «Снятие учебного и рабочего стресса (телесно-ориентированные методы), интегративная кинесиология»</title>
+		<link>http://gppc.ru/notice/86351/</link>
+				<pubDate>Mon, 26 Aug 2019 11:39:20 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Анонсы]]></category>
+		<category><![CDATA[Анонс]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=86351</guid>
+				<description><![CDATA[Уважаемые коллеги, добрый день! Приглашаем Вас на обучение по программе повышения квалификации «Снятие учебного и рабочего стресса (телесно-ориентированные методы), интегративная кинесиология» / 144 часа Видео-презентации по ключевым модулям курса с участием О.И. Троицкой и команды преподавателей: Семейная психология / Оздоравливающее прикосновение / Роли выживания Или в личном кабинете портала dpomos.ru, Шифр программы: 02122-19/20-В Стоимость программы: [&#8230;]]]></description>
+									</item>
+		<item>
 		<title>Приглашаем на II Общенациональный родительский форум</title>
 		<link>http://gppc.ru/news/86326/</link>
 				<pubDate>Fri, 23 Aug 2019 12:53:37 +0000</pubDate>
@@ -117,17 +128,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=86151</guid>
 				<description><![CDATA[Заместитель директора Городского психолого-педагогического центра Нина Середенко и директор школы № 2127 Инна Казакова дискутировали на тему: «С кем должен работать школьный психолог: с ребёнком или педагогом?».]]></description>
-									</item>
-		<item>
-		<title>В любом конфликте ребенка и взрослого виноват взрослый: ищем алгоритм выхода из сложной ситуации вместе – психолог, родитель, учитель, директор</title>
-		<link>http://gppc.ru/news/86148/</link>
-				<pubDate>Tue, 16 Jul 2019 14:14:46 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=86148</guid>
-				<description><![CDATA[Что делать? И кто виноват? Классические риторические вопросы в русской литературной традиции. Действительно ли это вопросы, на которые нет ответа? А если по разную сторону баррикад оказались ребенок и взрослый? В фокусе внимания – школа! Смотрим, думаем, обсуждаем вместе с экспертами в студии МОСОБРТВ. Ссылка для просмотра]]></description>
 									</item>
 	</channel>
 </rss>
