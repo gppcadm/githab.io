@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Mon, 26 Aug 2019 11:40:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Aug 2019 14:13:02 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
+		<title>31 августа пройдет Фестиваль равных возможностей</title>
+		<link>http://gppc.ru/news/86397/</link>
+				<pubDate>Tue, 27 Aug 2019 14:13:02 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=86397</guid>
+				<description><![CDATA[Приглашаем Вас принять активное участие в Фестивале равных возможностей, которое пройдет 31 августа с 12 до 18 часов на территориях РГСУ, Дома культуры и Инновационно-образовательного комплекса «Техноград» ВДНХ. В Фестивале примут участие люди с инвалидностью или ограниченными возможностями здоровья в возрасте от 5 до 75 лет. Во время Фестиваля каждый желающий сможет принять участие в [&#8230;]]]></description>
+									</item>
+		<item>
 		<title>Обучение по программе повышения квалификации «Снятие учебного и рабочего стресса (телесно-ориентированные методы), интегративная кинесиология»</title>
 		<link>http://gppc.ru/notice/86351/</link>
 				<pubDate>Mon, 26 Aug 2019 11:39:20 +0000</pubDate>
@@ -117,17 +128,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=86163</guid>
 				<description><![CDATA[3 августа в территориальном отделении «Зябликово» Городского психолого- педагогического центра прошла увлекательная деловая игра из цикла встреч «Форсайт профессионального успеха» городского проекта «Субботы московского школьника». «Сегодня к нам пришли ребята от 7 до 14 лет. Они сами заинтересовались, прошли регистрацию и, несмотря на летний субботний день, приехали осваивать компетенции soft skills &#8212; универсальные навыки, формирование [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>Заместитель директора Городского психолого-педагогического центра Нина Середенко приняла участие в программе &#171;Вызов:азарт и опыт&#187;</title>
-		<link>http://gppc.ru/news/86151/</link>
-				<pubDate>Thu, 25 Jul 2019 12:25:31 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=86151</guid>
-				<description><![CDATA[Заместитель директора Городского психолого-педагогического центра Нина Середенко и директор школы № 2127 Инна Казакова дискутировали на тему: «С кем должен работать школьный психолог: с ребёнком или педагогом?».]]></description>
 									</item>
 	</channel>
 </rss>
