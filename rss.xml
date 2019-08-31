@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Fri, 30 Aug 2019 09:56:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 31 Aug 2019 08:02:02 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
+		<title>Московский международный форум &#171;Город образования 2019&#187;. День второй.</title>
+		<link>http://gppc.ru/news/86435/</link>
+				<pubDate>Sat, 31 Aug 2019 07:56:33 +0000</pubDate>
+		<dc:creator><![CDATA[SmirnovDA]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=86435</guid>
+				<description><![CDATA[Московский международный форум «Город образования 2019» продолжается. Во второй день работа стенда Городского психолого-педагогического центра проходила под единым названием «Вертикаль роста». Мастер-классы и презентации, квизы и ворк-шопы, игры и тренинги – всё это ожидало посетителей на Форсайт-арене. Все самое интересное &#8212; в нашем репортаже!]]></description>
+									</item>
+		<item>
 		<title>&#171;Город образования&#187; &#8212; репортаж про первый день Форума</title>
 		<link>http://gppc.ru/news/86432/</link>
 				<pubDate>Thu, 29 Aug 2019 09:56:13 +0000</pubDate>
@@ -117,17 +128,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=86196</guid>
 				<description><![CDATA[17 августа 2019 года Городской психолого-педагогический центр и Школа «Созвездие» приглашает учеников 7-11 классов на деловую игру цикла «Форсайт профессионального успеха» в рамках городского проекта «Субботы московского школьника». По словам ведущей игры, педагога-психолога, Центра Виктории Кузьменко: «На предстоящей встрече Форсайта ребята не только обратятся к своему внутреннему «я», но интересно и с пользой проведут августовскую [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>Службы медиации – что это? Репортаж телеканала «Москва 24»</title>
-		<link>http://gppc.ru/news/86184/</link>
-				<pubDate>Thu, 15 Aug 2019 12:58:25 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=86184</guid>
-				<description><![CDATA[Службы медиации &#8212; что это? И кто такие &#171;медиаторы&#187;? Как они помогают достигать взаимопонимания между детьми, родителями и учителями? Смотрим репортаж «Москва 24».]]></description>
 									</item>
 	</channel>
 </rss>
