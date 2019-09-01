@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Sat, 31 Aug 2019 08:02:02 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Sep 2019 07:38:42 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
+		<title>Третий день Московского международного Форума «Город образования» &#8212; наш репортаж</title>
+		<link>http://gppc.ru/news/86444/</link>
+				<pubDate>Sun, 01 Sep 2019 07:38:42 +0000</pubDate>
+		<dc:creator><![CDATA[SmirnovDA]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=86444</guid>
+				<description><![CDATA[Завершился третий день Московского международного Форума «Город образования». Каким он был? Смотрим наш репортаж!]]></description>
+									</item>
+		<item>
 		<title>Московский международный форум &#171;Город образования 2019&#187;. День второй.</title>
 		<link>http://gppc.ru/news/86435/</link>
 				<pubDate>Sat, 31 Aug 2019 07:56:33 +0000</pubDate>
@@ -117,17 +128,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=86219</guid>
 				<description><![CDATA[Городской проект Департамента образования и науки г. Москвы «Ресурсная школа &#8212; территория успеха для каждого», куратором которого является ГБУ ГППЦ ДОгМ, продолжает развиваться.  Увеличивается количество его участников; среди них определены 10 школ-консультантов – наиболее опытных, достигших значительных успехов в организации инклюзивного обучения. В наступающем учебном году вас ждет много интересных, информационно насыщенных, практико-ориентированных мероприятий (вебинары, [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>Московские школьники «прокачают» навыки Soft Skills на форсайт-встрече в рамках «Суббот московского школьника»</title>
-		<link>http://gppc.ru/notice/86196/</link>
-				<pubDate>Fri, 16 Aug 2019 13:28:49 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Анонсы]]></category>
-		<category><![CDATA[Анонс]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=86196</guid>
-				<description><![CDATA[17 августа 2019 года Городской психолого-педагогический центр и Школа «Созвездие» приглашает учеников 7-11 классов на деловую игру цикла «Форсайт профессионального успеха» в рамках городского проекта «Субботы московского школьника». По словам ведущей игры, педагога-психолога, Центра Виктории Кузьменко: «На предстоящей встрече Форсайта ребята не только обратятся к своему внутреннему «я», но интересно и с пользой проведут августовскую [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
