@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Tue, 10 Sep 2019 12:40:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Sep 2019 14:30:58 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
+		<title>16 сентября приглашаем на ежемесячную встречу специалистов образовательных организаций, планирующих создание и развитие школьной службы примирения</title>
+		<link>http://gppc.ru/notice/86779/</link>
+				<pubDate>Tue, 10 Sep 2019 14:30:58 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Анонсы]]></category>
+		<category><![CDATA[Анонс]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=86779</guid>
+				<description><![CDATA[Уважаемые коллеги! Городской психолого-педагогический центр приглашает специалистов образовательных организаций, планирующих создание и развитие школьной службы примирения, принять участие в семинаре-практикуме «Школьная служба примирения: новые возможности для профилактики и разрешения школьных конфликтов», который состоится 16 сентября 2019 г. в 15.00 В рамках данного мероприятия участники смогут познакомиться с принципами и технологией восстановительного подхода в разрешении конфликтных ситуаций. На семинар [&#8230;]]]></description>
+									</item>
+		<item>
 		<title>Игра-путешествие «Прогулка по Москве» в честь Дня города</title>
 		<link>http://gppc.ru/to/86752/</link>
 				<pubDate>Tue, 10 Sep 2019 08:17:36 +0000</pubDate>
@@ -117,17 +128,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=86448</guid>
 				<description><![CDATA[Вот и наступил Финальный день работы Московского международного форума «Город образования 2019». Он проходил так же насыщенно, активно и продуктивно, как и все предыдущие дни.  Главными героями форума и самыми активными участниками всех мероприятий на площадке Городского психолого-педагогического центра были школьники и дошколята со своими родителями, а специалисты Центра подготовили для посетителей стенда массу интересных [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>Третий день Московского международного Форума «Город образования» &#8212; наш репортаж</title>
-		<link>http://gppc.ru/news/86444/</link>
-				<pubDate>Sun, 01 Sep 2019 07:38:42 +0000</pubDate>
-		<dc:creator><![CDATA[SmirnovDA]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=86444</guid>
-				<description><![CDATA[Завершился третий день Московского международного Форума «Город образования». Каким он был? Смотрим наш репортаж!]]></description>
 									</item>
 	</channel>
 </rss>
