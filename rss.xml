@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ города Москвы ГППЦ ДОгМ</description>
-	<lastBuildDate>Fri, 22 Nov 2019 11:48:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Nov 2019 13:31:15 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 	<item>
+		<title>Завершился V Национальный чемпионат «Абилимпикс-2019»</title>
+		<link>http://gppc.ru/news/89600/</link>
+				<pubDate>Fri, 22 Nov 2019 13:31:15 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=89600</guid>
+				<description><![CDATA[В Москве завершился V Национальный чемпионат профессионального мастерства среди людей с ограниченными возможностями здоровья и инвалидностью «Абилимпикс-2019». Московскую команду представляли 260 участников. Это школьники, студенты и специалисты, победившие на региональном этапе чемпионата. Основной площадкой традиционно стал 75 павильон ВДНХ. Также финальные конкурсные испытания проводились на базе 3 московских колледжей. 1800 участников из множества регионов нашей [&#8230;]]]></description>
+									</item>
+		<item>
 		<title>В ТО «Северное» прошла увлекательная игротека «Калейдоскоп игр»</title>
 		<link>http://gppc.ru/to/89588/</link>
 				<pubDate>Fri, 22 Nov 2019 11:48:53 +0000</pubDate>
@@ -116,17 +127,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=89502</guid>
 				<description><![CDATA[]]></description>
-									</item>
-		<item>
-		<title>v Московский чемпионат профессионального мастерства &#171;Абилимпикс&#187; проходит на ВДНХ</title>
-		<link>http://gppc.ru/news/89494/</link>
-				<pubDate>Tue, 19 Nov 2019 14:08:39 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=89494</guid>
-				<description><![CDATA[19 ноября в Москве прошел Региональный чемпионат профессионального мастерства среди людей с ограниченными возможностями здоровья и инвалидностью «Абилимпикс-2019». 75 павильон ВДНХ традиционно стал основной площадкой чемпионата. Также конкурсные испытания проводились на базе 5 образовательных организаций города: ГБПОУ «Московский колледж бизнес-технологий», ГБПОУ «Образовательный комплекс градостроительства «Столица», ГБПОУ «Политехнический колледж им. П.А. Овчинникова», ГБПОУ «Технологический колледж № [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
