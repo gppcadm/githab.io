@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Mon, 30 Dec 2019 13:16:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Dec 2019 06:37:22 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 	<item>
+		<title>Новогодний тест: Какой подарок под елкой тебя ожидает?</title>
+		<link>http://gppc.ru/news/91366/</link>
+				<pubDate>Tue, 31 Dec 2019 06:37:22 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=91366</guid>
+				<description><![CDATA[Пройдите наш самый новогодний тест: узнайте, какой подарок заготовлен для вас под елкой? &#160;]]></description>
+									</item>
+		<item>
 		<title>Новый год в ТО Сокол</title>
 		<link>http://gppc.ru/to/91534/</link>
 				<pubDate>Mon, 30 Dec 2019 13:16:41 +0000</pubDate>
@@ -117,17 +128,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=91442</guid>
 				<description><![CDATA[С 23 декабря в территориальном отделении «Зеленоградское» проходят тематические мероприятия недели «Зимняя сказка», в которых принимают участие воспитанники территориального отделения старшего школьного возраста. Педагоги Долгалева И. А., Спасская Ю.В., Еремина Ю.Е., Жеребцова В.В., Васильева А.А., Царева О.В., Солнцева И.А. провели новогоднюю викторину и конкурс стихов «Здравствуй, Зимушка-зима!», сказочный квест «Новогоднее приключение», мастер-класс по изготовлению маскарадных [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>Урок Доброты «Мир особого детства»</title>
-		<link>http://gppc.ru/to/91436/</link>
-				<pubDate>Mon, 30 Dec 2019 11:53:06 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости ТО]]></category>
-		<category><![CDATA[ТО Южное Бутово]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=91436</guid>
-				<description><![CDATA[4 декабря в территориальном отделении «Южное Бутово» прошло необычное мероприятие – урок Доброты «Мир особого детства». Педагоги говорили с ребятами о доброте, о хороших и добрых поступках. Дети попадали в различные игровые ситуации, где учились взаимоуважению и вежливому обращению с окружающими. В конце мероприятия каждый ребенок написал пожелание для людей всего мира, и была оформлена [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
