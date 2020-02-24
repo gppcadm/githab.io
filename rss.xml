@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Fri, 21 Feb 2020 12:09:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 23 Feb 2020 20:04:27 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,16 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 	<item>
+		<title>Поздравления с 23 февраля!</title>
+		<link>http://gppc.ru/news/93153/</link>
+				<pubDate>Sun, 23 Feb 2020 09:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=93153</guid>
+				<description><![CDATA[Дорогие мужчины! От души поздравляем вас с праздником! Будьте уверены в себе, энергичны, полны решимости и благородства. Крепкого вам здоровья и успехов во всем.]]></description>
+									</item>
+		<item>
 		<title>17 февраля 2020 года прошла очередная ежемесячная встреча кураторов школьных служб примирения</title>
 		<link>http://gppc.ru/news/93110/</link>
 				<pubDate>Fri, 21 Feb 2020 12:08:06 +0000</pubDate>
@@ -117,17 +127,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=92725</guid>
 				<description><![CDATA[Зачем нужна коммуникация? Она способствует достижению той или иной цели: наладить контакт с собеседником, получить нужную информацию, удовлетворить потребность в общении. А можно ли понимать человека без слов и «читать» собеседника по жестам и мимике, и что такое невербальное общение и насколько важно уметь владеть «языком тела»? Во вторую субботу февраля в Городском психолого-педагогическом центре [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>17 февраля Городской психолого-педагогический центр приглашает специалистов образовательных организаций, планирующих создание и развитие школьной службы примирения</title>
-		<link>http://gppc.ru/notice/92637/</link>
-				<pubDate>Mon, 10 Feb 2020 12:40:31 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Анонсы]]></category>
-		<category><![CDATA[Анонс]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=92637</guid>
-				<description><![CDATA[Уважаемые коллеги! Городской психолого-педагогический центр приглашает специалистов образовательных организаций, планирующих создание и развитие школьной службы примирения: принять участие в семинаре-практикуме «Школьная служба примирения: новые возможности для профилактики и разрешения школьных конфликтов», который состоится 17 февраля 2020 г. в 15.00 Регистрация В рамках данного мероприятия участники смогут познакомиться с принципами и технологией восстановительного подхода в разрешении [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
