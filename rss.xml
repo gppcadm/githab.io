@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Wed, 04 Mar 2020 06:57:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Mar 2020 09:39:26 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 	<item>
+		<title>Поздравляем с 8 марта!</title>
+		<link>http://gppc.ru/news/93839/</link>
+				<pubDate>Fri, 06 Mar 2020 09:39:26 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=93839</guid>
+				<description><![CDATA[]]></description>
+									</item>
+		<item>
 		<title>Командная работа и искусство самопрезентации: как школьники знакомятся с навыками Soft Skills</title>
 		<link>http://gppc.ru/news/93715/</link>
 				<pubDate>Wed, 04 Mar 2020 06:57:43 +0000</pubDate>
@@ -116,17 +127,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=93086</guid>
 				<description><![CDATA[Встреча посвящена практической работе, направленной на укрепление навыков посредничества в разрешении конфликтных ситуаций в среде ровесников и на развитие навыков грамотной коммуникации, помогающей предупреждать и разрешать конфликты. Участники: кураторы и волонтеры школьных служб примирения Место проведение встречи: ГБОУ «Школа имени В.В. Маяковского», учебный корпус «Пролетарка» Адрес: Метро &#171;Пролетарская&#187;, ул. Крутицкий вал, 5 Время: с 15.00 до 17.30 Вопросы [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>«Субботы московского школьника» – тренинг «Вместе весело шагать!»</title>
-		<link>http://gppc.ru/news/92957/</link>
-				<pubDate>Wed, 19 Feb 2020 13:32:37 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=92957</guid>
-				<description><![CDATA[Что нравится детям? Добродушные верные четвероногие друзья! Поиски приключений! Победа в соревнованиях! «Вместе весело шагать!» – тренинг, который  провели специалисты проектной группы по Канистерапии нашего Центра для учеников младших классов. Тренинг прошёл в январе и был освещён во многих столичных СМИ. Давайте ещё раз вспомним, как Урс, Матитльда, Пампуша и другие четвероногие помогали ребятам развивать [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
