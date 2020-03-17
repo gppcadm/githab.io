@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Thu, 12 Mar 2020 09:23:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Mar 2020 06:14:38 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 	<item>
+		<title>Начинается регистрация участников VI Московского чемпионата «Абилимпикс-2020»</title>
+		<link>http://gppc.ru/news/94037/</link>
+				<pubDate>Tue, 17 Mar 2020 06:13:59 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=94037</guid>
+				<description><![CDATA[Сегодня, 16 марта, начинается регистрация участников VI Московского чемпионата «Абилимпикс-2020», которая продлится до 13 апреля 2020 года. Пройти регистрацию можно на сайте Национального центра «Абилимпикс». Регистрацию обучающихся осуществляют образовательные организации города Москвы. VI Московского чемпионата «Абилимпикс-2020» проводится в два этапа: отборочный и заключительный. Сроки проведения отборочного этапа – с 11 мая по 25 мая 2020 [&#8230;]]]></description>
+									</item>
+		<item>
 		<title>Образование на всю жизнь: чему пойти учиться?</title>
 		<link>http://gppc.ru/news/93377/</link>
 				<pubDate>Thu, 12 Mar 2020 06:02:29 +0000</pubDate>
@@ -117,16 +128,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=93229</guid>
 				<description><![CDATA[17 февраля 2020 года в Москве состоялось подведение итогов и награждение лауреатов Первого Городского фестиваля творчества «Дороги, которые мы выбираем», объединившего участников проекта «Московское долголетие». Фестиваль организован при поддержке Департамента образования и науки города Москвы. 5 тысяч участников со всей столицы, множество номинаций в различных видах творчества: вокал, танец, театральное искусство и художественное слово, искусство [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>Поздравления с 23 февраля!</title>
-		<link>http://gppc.ru/news/93153/</link>
-				<pubDate>Sun, 23 Feb 2020 09:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=93153</guid>
-				<description><![CDATA[Дорогие мужчины! От души поздравляем вас с праздником! Будьте уверены в себе, энергичны, полны решимости и благородства. Крепкого вам здоровья и успехов во всем.]]></description>
 									</item>
 	</channel>
 </rss>
