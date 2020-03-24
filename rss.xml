@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Mon, 23 Mar 2020 09:18:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Mar 2020 11:02:28 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 	<item>
+		<title>Вебинар &#171;Вместе проще онлайн: коррекционная поддержка обучающихся в дистанционном режиме&#187;</title>
+		<link>http://gppc.ru/news/94335/</link>
+				<pubDate>Mon, 23 Mar 2020 15:56:50 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=94335</guid>
+				<description><![CDATA[<img src="/wp-content/uploads/2015/12/pdf.png" style="vertical-align: middle;" /> Для подключения к вебинару (инструкция)]]></description>
+									</item>
+		<item>
 		<title>16 марта 2020 года состоялся онлайн-семинар и онлайн-конференция школьных служб примирения</title>
 		<link>http://gppc.ru/news/94332/</link>
 				<pubDate>Mon, 23 Mar 2020 09:18:03 +0000</pubDate>
@@ -117,17 +128,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=93715</guid>
 				<description><![CDATA[Что означает «быть командным игроком»? Какие качества нужно развивать в себе, чтобы научиться работать в команде? А что нужно сделать, чтобы получить работу своей мечты и какие виды собеседования существуют? И где современным школьникам получить эти знания? На эти и другие вопросы смогли ответить участники деловых игр, реализуемых специалистами Городского психолого-педагогического центра в рамках проекта [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>7 марта пройдет конференция «Include Yourself», посвященная развитию инклюзивного подхода</title>
-		<link>http://gppc.ru/notice/93589/</link>
-				<pubDate>Tue, 03 Mar 2020 12:39:34 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Анонсы]]></category>
-		<category><![CDATA[Анонс]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=93589</guid>
-				<description><![CDATA[Студенческая организации AEGEE-Moskva совместно с европейским проектом Europe on Track организует конференцию «Include Yourself», посвященную развитию инклюзивного подхода и психическому здоровью. Конференция соберет в одном месте 80 человек. Цели конференции: повысить осведомленность молодёжи Москвы (18-30 лет) по теме развития инклюзивного подхода за счет приглашения спикеров, работающих над развитием такого подхода в разных сферах; снизить психологический [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
