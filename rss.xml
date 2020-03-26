@@ -12,7 +12,7 @@
 	<atom:link href="http://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>http://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Tue, 24 Mar 2020 11:02:28 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Mar 2020 09:36:17 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 	<item>
+		<title>Выберите мультфильм для домашнего просмотра вместе с нашим тестом</title>
+		<link>http://gppc.ru/news/94406/</link>
+				<pubDate>Thu, 26 Mar 2020 09:35:58 +0000</pubDate>
+		<dc:creator><![CDATA[roman]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+
+		<guid isPermaLink="false">http://gppc.ru/?p=94406</guid>
+				<description><![CDATA[Не знаете, что выбрать для семейного просмотра дома на время самоизоляции? Наш тест поможет вам с выбором мультфильма!]]></description>
+									</item>
+		<item>
 		<title>Вебинар &#171;Вместе проще онлайн: коррекционная поддержка обучающихся в дистанционном режиме&#187;</title>
 		<link>http://gppc.ru/news/94335/</link>
 				<pubDate>Mon, 23 Mar 2020 15:56:50 +0000</pubDate>
@@ -117,17 +128,6 @@
 
 		<guid isPermaLink="false">http://gppc.ru/?p=93839</guid>
 				<description><![CDATA[]]></description>
-									</item>
-		<item>
-		<title>Командная работа и искусство самопрезентации: как школьники знакомятся с навыками Soft Skills</title>
-		<link>http://gppc.ru/news/93715/</link>
-				<pubDate>Wed, 04 Mar 2020 06:57:43 +0000</pubDate>
-		<dc:creator><![CDATA[roman]]></dc:creator>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-
-		<guid isPermaLink="false">http://gppc.ru/?p=93715</guid>
-				<description><![CDATA[Что означает «быть командным игроком»? Какие качества нужно развивать в себе, чтобы научиться работать в команде? А что нужно сделать, чтобы получить работу своей мечты и какие виды собеседования существуют? И где современным школьникам получить эти знания? На эти и другие вопросы смогли ответить участники деловых игр, реализуемых специалистами Городского психолого-педагогического центра в рамках проекта [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
