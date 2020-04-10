@@ -12,7 +12,7 @@
 	<atom:link href="https://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Wed, 08 Apr 2020 14:32:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Apr 2020 07:38:41 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.4</generator>
 	<item>
+		<title>Какой фильм посмотреть? Наш тест поможет выбрать!</title>
+		<link>https://gppc.ru/news/94915/</link>
+		
+		<dc:creator><![CDATA[roman]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2020 07:38:41 +0000</pubDate>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+		<guid isPermaLink="false">https://gppc.ru/?p=94915</guid>
+
+					<description><![CDATA[Впереди выходные &#8212; стоит выбрать хороший фильм для семейного просмотра. Наш тест подскажет, на каком фильме остановиться.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Педагоги Городского психолого-педагогического центра стали обладателями ГРАН-ПРИ международного конкурса «STEM-педагог 2020»</title>
 		<link>https://gppc.ru/news/94863/</link>
 		
@@ -150,21 +165,6 @@
 		<guid isPermaLink="false">https://gppc.ru/?p=94406</guid>
 
 					<description><![CDATA[Не знаете, что выбрать для семейного просмотра дома на время самоизоляции? Наш тест поможет вам с выбором мультфильма!]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Вебинар &#171;Вместе проще онлайн: коррекционная поддержка обучающихся в дистанционном режиме&#187;</title>
-		<link>https://gppc.ru/news/94335/</link>
-		
-		<dc:creator><![CDATA[roman]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2020 15:56:50 +0000</pubDate>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-		<guid isPermaLink="false">https://gppc.ru/?p=94335</guid>
-
-					<description><![CDATA[<img src="/wp-content/uploads/2015/12/pdf.png" style="vertical-align: middle;" /> Для подключения к вебинару (инструкция) 25 марта специалисты Городского психолого-педагогического центра и школы-консультанты проекта «Ресурсная школа» провели вебинар «Вместе проще онлайн: коррекционная поддержка обучающихся в дистанционном режиме». В нем приняли участие 5855 человек: 5126 участников из школ Москвы, 729 участников из городов России (Калининград, Волгоград, Белгород, Новосибирск, Ижевск, Балашиха и др.). На вебинаре обсуждались [&#8230;]]]></description>
 		
 		
 		
