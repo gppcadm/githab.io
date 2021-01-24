@@ -12,7 +12,7 @@
 	<atom:link href="https://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Fri, 22 Jan 2021 08:03:00 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 23 Jan 2021 14:28:52 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
+		<title>Познавательно-развлекательный тест: Что тебя мотивирует на достижение успеха?</title>
+		<link>https://gppc.ru/news/102762/</link>
+		
+		<dc:creator><![CDATA[roman]]></dc:creator>
+		<pubDate>Sat, 23 Jan 2021 14:28:52 +0000</pubDate>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+		<guid isPermaLink="false">https://gppc.ru/?p=102762</guid>
+
+					<description><![CDATA[Мотивация – это сила, которая побуждает на постоянный рост и грандиозные свершения. Кого-то вдохновляет пример публичных личностей, кто-то идет по стопам родных, кто-то полностью полагается на себя, читая нужные книги. Если вы ещё не знаете, что или кто может стать для вас стимулом, пройди этот тест и узнай, что поможет тебе избежать прокрастинации.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>18 января прошла ежемесячная встреча кураторов школьных служб примирения</title>
 		<link>https://gppc.ru/news/102725/</link>
 		
@@ -150,21 +165,6 @@
 		<guid isPermaLink="false">https://gppc.ru/?p=102530</guid>
 
 					<description><![CDATA[Мы все что-то не успеваем. Иногда не успеваем что-то важное — и это особенно обидно. Наверное, каждый из нас мог бы больше, если бы чуть лучше управлял собой и своим временем, удачнее организовал свою работу и жизнь. Если вам время от времени приходят такие мысли, то можно подобрать для себя одну из техник тайм-менеджмента, о [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>14 января пройдет тренинг для старшеклассников из цикла «НейроSkills. Вкус успеха. Пробуй!»</title>
-		<link>https://gppc.ru/notice/102510/</link>
-		
-		<dc:creator><![CDATA[roman]]></dc:creator>
-		<pubDate>Mon, 11 Jan 2021 09:51:27 +0000</pubDate>
-				<category><![CDATA[Анонсы]]></category>
-		<category><![CDATA[Анонс]]></category>
-		<guid isPermaLink="false">https://gppc.ru/?p=102510</guid>
-
-					<description><![CDATA[Мы рады снова встретить старшеклассников после новогодних праздников на нашей встрече «НейроSkills. Вкус успеха. Пробуй!», которая пройдет 14 января в 16.00. В прошедшем году мы с вами развивали навыки, которые помогают успешно запоминать материал и качественно готовиться к экзаменам. Этот год мы начнем с того, что поговорим о том, как наилучшим способом усваивать большие объемы [&#8230;]]]></description>
 		
 		
 		
