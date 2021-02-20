@@ -12,7 +12,7 @@
 	<atom:link href="https://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Wed, 17 Feb 2021 14:23:15 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 Feb 2021 12:32:47 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6.1</generator>
 	<item>
+		<title>Поздравляем с Днём защитника Отечества</title>
+		<link>https://gppc.ru/news/103412/</link>
+		
+		<dc:creator><![CDATA[roman]]></dc:creator>
+		<pubDate>Sat, 20 Feb 2021 12:32:47 +0000</pubDate>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+		<guid isPermaLink="false">https://gppc.ru/?p=103412</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Приглашаем принять участие в международном детском фестивале «Яркий мир – 2021»!</title>
 		<link>https://gppc.ru/news/103345/</link>
 		
@@ -150,21 +165,6 @@
 		<guid isPermaLink="false">https://gppc.ru/?p=102849</guid>
 
 					<description><![CDATA[27 января 2021 года прошла IV Международная конференция «Цифровая трансформация образования. Обучение детей с ограниченными возможностями здоровья и инвалидностью в эпоху развития цифрового образования». Участники встречи обсудили вопросы применения современных технологий в работе с обучающимися с ОВЗ в условиях специального и инклюзивного образования. Директор Городского психолого-педагогического центра Любовь Олтаржевская представила практический опыт использования цифровых образовательных [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>2 февраля состоится пятая встреча Клуба специалистов психолого-педагогического сопровождения</title>
-		<link>https://gppc.ru/notice/102780/</link>
-		
-		<dc:creator><![CDATA[roman]]></dc:creator>
-		<pubDate>Tue, 26 Jan 2021 12:20:22 +0000</pubDate>
-				<category><![CDATA[Анонсы]]></category>
-		<category><![CDATA[Анонс]]></category>
-		<guid isPermaLink="false">https://gppc.ru/?p=102780</guid>
-
-					<description><![CDATA[2 февраля 2021 года с 15:00 до 16:00 состоится пятая встреча Клуба специалистов психолого-педагогическо​го сопровождения. Развитие, обучение и воспитание ребенка может быть успешным только при условии, что педагоги и родители станут равноправными партнерами &#8212; будут сотрудничать между собой. А из чего складывается диалог партнеров? Какие формы может принимать коммуникация, когда обсуждение становится эмоциональным? Какие существуют способы конструктивного взаимодействия [&#8230;]]]></description>
 		
 		
 		
