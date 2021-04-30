@@ -12,7 +12,7 @@
 	<atom:link href="https://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Wed, 28 Apr 2021 11:33:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Apr 2021 12:02:32 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
+		<title>ПОЗДРАВЛЯЕМ С ПЕРВОМАЕМ!</title>
+		<link>https://gppc.ru/news/104986/</link>
+		
+		<dc:creator><![CDATA[roman]]></dc:creator>
+		<pubDate>Fri, 30 Apr 2021 12:02:32 +0000</pubDate>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+		<guid isPermaLink="false">https://gppc.ru/?p=104986</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>В рамках Общероссийской акции «День доверия» стартовала интеллектуальная кино-викторина для школьников</title>
 		<link>https://gppc.ru/news/104933/</link>
 		
@@ -150,21 +165,6 @@
 		<guid isPermaLink="false">https://gppc.ru/?p=104631</guid>
 
 					<description><![CDATA[Дорогие друзья! Приглашаем вас принять участие во Всероссийском конкурсе Уполномоченного при Президенте Российской Федерации по правам ребенка «Вектор детства»! Конкурс проводится в целях содействия развития социальной активности региональных государственных и некоммерческих организаций в сфере поддержки семьи и детства, выявления социальных инициатив (проектов, программ, практик, инноваций, моделей и т.п.), направленных на поддержку семьи и детства, преодоления [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>12 апреля состоялся семинар  «Школьная служба примирения и восстановительные практики: новые возможности для профилактики конфликтов и конструктивного сотрудничества участников образовательной среды»</title>
-		<link>https://gppc.ru/news/104605/</link>
-		
-		<dc:creator><![CDATA[roman]]></dc:creator>
-		<pubDate>Tue, 13 Apr 2021 13:38:25 +0000</pubDate>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-		<guid isPermaLink="false">https://gppc.ru/?p=104605</guid>
-
-					<description><![CDATA[12 апреля 2021 года состоялся очередной ежемесячный семинар по созданию ШСП: «Школьная служба примирения и восстановительные практики: новые возможности для профилактики конфликтов и конструктивного сотрудничества участников образовательной среды». Мероприятие прошло в онлайн-формате. В семинаре приняли участие специалисты образовательных организаций Москвы и других регионов РФ. Ведущие семинара Женодарова Елена Дмитриевна, Ярыгина Лариса Викторовна и Коновалов Антон [&#8230;]]]></description>
 		
 		
 		
