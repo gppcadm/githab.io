@@ -12,7 +12,7 @@
 	<atom:link href="https://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Fri, 30 Apr 2021 12:02:32 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 May 2021 07:59:27 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
+		<title>С Днём Великой Победы!</title>
+		<link>https://gppc.ru/news/105009/</link>
+		
+		<dc:creator><![CDATA[roman]]></dc:creator>
+		<pubDate>Sun, 09 May 2021 07:59:27 +0000</pubDate>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Новость]]></category>
+		<guid isPermaLink="false">https://gppc.ru/?p=105009</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ПОЗДРАВЛЯЕМ С ПЕРВОМАЕМ!</title>
 		<link>https://gppc.ru/news/104986/</link>
 		
@@ -150,21 +165,6 @@
 		<guid isPermaLink="false">https://gppc.ru/?p=104646</guid>
 
 					<description><![CDATA[Весна – это всегда повод всем вместе сделать наш город чище и красивее. В этот субботний день в рамках весеннего месячника по благоустройству коллектив Городского психолого-педагогического центра собрался для того, чтобы всем вместе сделать территорию нашего Центра красивой, чистой и ухоженной. А помогает нам веселая музыка, весеннее настроение, рабочий инвентарь, командная работа и желание внести [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Приглашаем вас принять участие во Всероссийском конкурсе Уполномоченного при Президенте Российской Федерации по правам ребенка «Вектор детства»!</title>
-		<link>https://gppc.ru/news/104631/</link>
-		
-		<dc:creator><![CDATA[roman]]></dc:creator>
-		<pubDate>Wed, 14 Apr 2021 09:08:40 +0000</pubDate>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-		<guid isPermaLink="false">https://gppc.ru/?p=104631</guid>
-
-					<description><![CDATA[Дорогие друзья! Приглашаем вас принять участие во Всероссийском конкурсе Уполномоченного при Президенте Российской Федерации по правам ребенка «Вектор детства»! Конкурс проводится в целях содействия развития социальной активности региональных государственных и некоммерческих организаций в сфере поддержки семьи и детства, выявления социальных инициатив (проектов, программ, практик, инноваций, моделей и т.п.), направленных на поддержку семьи и детства, преодоления [&#8230;]]]></description>
 		
 		
 		
