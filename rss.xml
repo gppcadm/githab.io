@@ -12,7 +12,7 @@
 	<atom:link href="https://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Tue, 08 Jun 2021 11:33:44 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Jun 2021 12:52:24 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,35 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Поздравляем с Днём России!</title>
+		<link>https://gppc.ru/news/105899/</link>
+		
+		<dc:creator><![CDATA[roman]]></dc:creator>
+		<pubDate>Fri, 11 Jun 2021 12:52:24 +0000</pubDate>
+				<category><![CDATA[Новости]]></category>
+		<guid isPermaLink="false">https://gppc.ru/?p=105899</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>16 июня в 16:00 состоится онлайн-консультация по вопросам обучения детей с расстройствами аутистического спектра!</title>
+		<link>https://gppc.ru/notice/105849/</link>
+		
+		<dc:creator><![CDATA[roman]]></dc:creator>
+		<pubDate>Fri, 11 Jun 2021 06:27:54 +0000</pubDate>
+				<category><![CDATA[Анонсы]]></category>
+		<category><![CDATA[Анонс]]></category>
+		<guid isPermaLink="false">https://gppc.ru/?p=105849</guid>
+
+					<description><![CDATA[&#8212; Вашему ребенку или воспитаннику недавно диагностировали аутизм, или он находится в зоне риска наличия расстройства аутистического спектра? Наши специалисты расскажут вам, как организовать раннюю помощь и с чего начать работу с ребенком! &#8212; В вашей группе есть воспитанник с аутизмом? Задайте свой вопрос в разделе «Особенности работы с детьми с трех до семи лет», [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Приглашаем принять участие в месячнике, посвященном Международному дню борьбы со злоупотреблением наркотическими средствами и их незаконным оборотом</title>
 		<link>https://gppc.ru/news/105741/</link>
 		
@@ -135,36 +164,6 @@
 		<guid isPermaLink="false">https://gppc.ru/?p=105009</guid>
 
 					<description><![CDATA[]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ПОЗДРАВЛЯЕМ С ПЕРВОМАЕМ!</title>
-		<link>https://gppc.ru/news/104986/</link>
-		
-		<dc:creator><![CDATA[roman]]></dc:creator>
-		<pubDate>Fri, 30 Apr 2021 12:02:32 +0000</pubDate>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-		<guid isPermaLink="false">https://gppc.ru/?p=104986</guid>
-
-					<description><![CDATA[]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>В рамках Общероссийской акции «День доверия» стартовала интеллектуальная кино-викторина для школьников</title>
-		<link>https://gppc.ru/news/104933/</link>
-		
-		<dc:creator><![CDATA[roman]]></dc:creator>
-		<pubDate>Wed, 28 Apr 2021 11:33:12 +0000</pubDate>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-		<guid isPermaLink="false">https://gppc.ru/?p=104933</guid>
-
-					<description><![CDATA[С 26 апреля по 14 мая 2021 года в рамках Общероссийской акции «День доверия» проходит интеллектуальная кино-викторина «В жизни как в кино» для учеников 5-9 классов. Дети и подростки смогут обсудить с психологами трудные жизненные ситуации на примерах сюжетов киножурнала «Ералаш», узнают о возможностях получения квалифицированной психологической помощи, принципах работы Общероссийского детского телефона доверия 8-800-2000-122. [&#8230;]]]></description>
 		
 		
 		
