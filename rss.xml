@@ -12,7 +12,7 @@
 	<atom:link href="https://gppc.ru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gppc.ru</link>
 	<description>Официальный сайт ГБУ ГППЦ ДОНМ</description>
-	<lastBuildDate>Fri, 11 Jun 2021 12:52:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Jun 2021 12:54:33 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,20 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Педагоги и воспитанники Городского психолого-педагогического центра стали призерами городского конкурса мультимедийных проектов «Мастерская сказки-2021»</title>
+		<link>https://gppc.ru/news/105939/</link>
+		
+		<dc:creator><![CDATA[SmirnovDA]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2021 09:48:19 +0000</pubDate>
+				<category><![CDATA[Новости]]></category>
+		<guid isPermaLink="false">https://gppc.ru/?p=105939</guid>
+
+					<description><![CDATA[Подведены итоги городского конкурса мультимедийных проектов «Мастерская сказки-2021». Ежегодный конкурс «Мастерская сказки-2021» в рамках Городского фестиваля научно-технического творчества молодёжи «Образование. Наука. Производство» в 2021 году был посвящён 60-летию первого полёта человека в космос. Целью конкурса являлось развитие технического и декоративно-прикладного творчества обучающихся посредством создания мультипликационных фильмов по мотивам народных и литературных сказок. В детской мультипликационной [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Поздравляем с Днём России!</title>
 		<link>https://gppc.ru/news/105899/</link>
 		
@@ -149,21 +163,6 @@
 		<guid isPermaLink="false">https://gppc.ru/?p=105078</guid>
 
 					<description><![CDATA[Уважаемые коллеги! Городской психолого-педагогический центр приглашает специалистов образовательных организаций, планирующих создание школьной службы примирения, принять участие в цикле онлайн семинаров по созданию школьной службы примирения «Школьная служба примирения и восстановительные практики: новые возможности для профилактики конфликтов и конструктивного сотрудничества участников образовательной среды». 17 мая 2021г. с 15.00 до 16.00 состоится онлайн семинар по теме «Различие служб [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>С Днём Великой Победы!</title>
-		<link>https://gppc.ru/news/105009/</link>
-		
-		<dc:creator><![CDATA[roman]]></dc:creator>
-		<pubDate>Sun, 09 May 2021 07:59:27 +0000</pubDate>
-				<category><![CDATA[Новости]]></category>
-		<category><![CDATA[Новость]]></category>
-		<guid isPermaLink="false">https://gppc.ru/?p=105009</guid>
-
-					<description><![CDATA[]]></description>
 		
 		
 		
